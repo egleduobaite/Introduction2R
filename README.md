@@ -1,2 +1,2 @@
 # Introduction2R
-Inteoduction to R
+Introduction to R
